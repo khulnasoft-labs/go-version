@@ -8,12 +8,12 @@ Versions used with go-version must follow [SemVer](http://semver.org/).
 ## Installation and Usage
 
 Package documentation can be found on
-[GoDoc](http://godoc.org/github.com/khulnasoft-labs/go-version).
+[GoDoc](http://godoc.org/github.com/khulnasoft-lab/go-version).
 
 Installation can be done with a normal `go get`:
 
 ```
-$ go get github.com/khulnasoft-labs/go-version
+$ go get github.com/khulnasoft-lab/go-version
 ```
 
 #### Version Parsing and Comparison
