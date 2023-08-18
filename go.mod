@@ -1,3 +1,3 @@
-module github.com/khulnasoft-labs/go-version
+module github.com/khulnasoft-lab/go-version
 
 go 1.14
